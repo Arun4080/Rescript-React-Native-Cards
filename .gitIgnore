@@ -13,5 +13,6 @@ lib/bs
 *.keystore
 *.iml
 *.hprof
+build/
 
 .metro-health-check*
